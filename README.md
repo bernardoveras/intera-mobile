@@ -1,4 +1,4 @@
-![](.github/assets/cover.png)
+![](https://github.com/bernardoveras/intera/blob/main/.github/assets/cover.png)
 
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/bernardoveras/interapay/blob/master/LICENSE)
 
